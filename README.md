@@ -2,11 +2,14 @@
 Acak Kelompok Jarkom Kelas Ganjil
 How to use? 
 gitclone https://github.com/christianelka/jarkom
+
 php jarkom.php
 
 Konstanta : 
   Mahasiswa = 36
+  
   Total Kelompok = 7
+  
   Anggota = 5
 
 Di SC ini cuma ngacak anggotanya Sob. 
