@@ -1,6 +1,7 @@
 # jarkom
 Acak Kelompok Jarkom Kelas Ganjil
 How to use? 
+
 gitclone https://github.com/christianelka/jarkom
 
 php jarkom.php
